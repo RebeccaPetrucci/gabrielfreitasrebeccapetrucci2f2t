@@ -1,6 +1,9 @@
 @import url(reset.css);
 @import url(header.css);
-body{
-    background-color: #ebecce
-    ;
+
+:root{
+    --branco:#FFFFFF;
+    --cor-de-fundo: #EBECCE;
+    --laranja: #EB9B00;
+
 }

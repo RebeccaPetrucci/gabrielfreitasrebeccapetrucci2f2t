@@ -20,6 +20,10 @@ body{
 
 .menu-lista{
     display: none;
+    position: absolute;
+    width: 60vw;
+    /*muda forma q a letra fica do amanho da tela*/
+    text-transform: uppercase;
 }
 
 

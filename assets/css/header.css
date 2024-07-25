@@ -26,7 +26,6 @@ body{
     text-transform: uppercase;
 }
 
-
 .seletor-menu:checked~ .menu-lista{
     display: block;
 }
@@ -38,6 +37,11 @@ body{
 
 .menu-lista-titulo{
     color: var(--laranja);
+    font-weight: 700;
+}
+
+.seletor-menu{
+    display: none;
 }
 
 .menu-lista-link{
